@@ -1,0 +1,235 @@
+Column1,Customer ID,CustomerName,CustomerEmail,CustomerAddress,Store ID,StoreName,Birthdate
+0,CU1,Rachel Rodriguez,crystal53@hotmail.com,"8335 Walker Street Suite 405, Christineside, South Africa",7,"Kilimanjaro Crafts, South Africa",25/03/2000
+1,CU2,Jonathan Monroe,simonbrittney@gmail.com,"710 Gallegos Mountains, Kimton, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",18/01/1983
+2,CU3,Patricia Maldonado,sjackson@rogers.com,"2594 Newton Canyon, Joseborough, India",8,"Taj Treasures, India",05/02/1987
+3,CU4,Christy Luna,davidmiller@klein-massey.com,"777 Michael Haven, East James, South Africa",7,"Kilimanjaro Crafts, South Africa",03/09/1971
+4,CU5,Gabriel Ruiz,laura06@nicholson.com,"97993 Raymond Camp, South Michael, India",8,"Taj Treasures, India",07/10/1998
+5,CU6,Sean Rodgers,barnettmichael@estes.com,"228 Becker Street, South Christopherberg, Thailand",18,"Spice Street, Thailand",18/10/1979
+6,CU7,Jodi Salinas,jwilliams@hotmail.com,"64790 Brown Tunnel Suite 014, Lake Nicolaschester, Indonesia",17,"Batik Boutique, Indonesia",04/07/2001
+7,CU8,Michelle Jones,amber80@yahoo.com,"9714 Linda Union Suite 002, East Danielle, China",9,"Panda Plaza, China",23/04/1987
+8,CU9,Derek Flores,scarter@brown.com,"1630 Byrd Loaf Suite 905, Monicaberg, Argentina",14,"Tango Traders, Argentina",16/03/1971
+9,CU10,Russell Harrington,eclark@yahoo.com,"5722 Peters Road Apt. 008, Snydertown, France",4,"Café de Paris, France",08/12/1989
+10,CU11,William May,hallarthur@nelson-miranda.com,"05474 Rachel Courts, North Michaelville, Russia",13,"Moscow Market, Russia",18/05/1981
+11,CU12,Patrick Garcia,georgehickman@jones.com,"28186 Linda Fall Apt. 751, Michaelshire, Germany",5,"Berlin Bazaar, Germany",03/10/1974
+12,CU13,Aaron Perez,vlong@knight.info,"3681 Tammy Brook, Lake Amanda, France",4,"Café de Paris, France",11/07/1982
+13,CU14,Amy Knapp,sjoseph@sullivan.info,"6332 Johnny Square Apt. 942, West Kenneth, Egypt",20,"Pharaoh's Finds, Egypt",06/08/1990
+14,CU15,Erin Wade,kleinstephanie@lopez-burgess.info,"940 Hopkins Unions, Morganfort, Italy",10,"Pasta Palace, Italy",29/03/2001
+15,CU16,Debbie Wilkins,crystal55@benson.com,"7742 Sally Plaza, North Micheleton, Colombia",6,"Rio Retailers, Colombia",04/07/1977
+16,CU17,David Moore,lisa04@white.info,"016 Brandt Grove, Port Ericshire, Argentina",14,"Tango Traders, Argentina",14/01/1998
+17,CU18,Jennifer Pearson,vlewis@armstrong.com,"39812 Guerrero Vista Suite 004, North Tracyhaven, Brazil",15,"Samba Store, Brazil",10/01/1979
+18,CU19,Tyler Buchanan,noblebrent@hotmail.com,"8922 Brenda Canyon Suite 674, Port Nathaniel, Egypt",20,"Pharaoh's Finds, Egypt",01/10/1994
+19,CU20,Daniel Butler,catherinecalhoun@williams.org,"649 Brian Island, East Justin, Thailand",18,"Spice Street, Thailand",04/11/1972
+20,CU21,Sherry Turner,brennanregina@thompson-collins.com,"0769 Norton Plains Apt. 464, Port Juanfurt, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",27/07/1980
+21,CU22,Julie Obrien,floyddavid@gmail.com,"1197 Barbara Gardens Apt. 318, Wardmouth, India",8,"Taj Treasures, India",27/08/1970
+22,CU23,Garrett Ortiz,jbarnes@holloway.com,"8245 Allen Well, Lake Shannon, Canada",22,"Perplexity Mall,Canada",08/12/2001
+23,CU24,John Johnson,dorothy49@collins.biz,"24263 Scott Underpass, South Lindsay, United Kingdom",12,"Royal Retail, United Kingdom",15/10/1986
+24,CU25,Dawn Webb,margaret91@yahoo.com,"568 Tina Lodge, North Jennifertown, Colombia",6,"Rio Retailers, Colombia",31/10/1986
+25,CU26,Shelly Mcbride,yruiz@gmail.com,"05523 Luis Roads, Lake James, China",9,"Panda Plaza, China",20/04/1989
+26,CU27,Rachel Mack,nproctor@yahoo.com,"813 Andrea Mill Suite 368, New Randy, United States",11,"Union Square Mart, United States",23/12/1983
+27,CU28,Evan Vance,westcynthia@yahoo.com,"8492 Michael Light Apt. 788, New Janice, South Africa",7,"Kilimanjaro Crafts, South Africa",13/03/1979
+28,CU29,Laura Cooper,lewisjulie@richardson-murphy.com,"10909 Sarah Point, Wallaceborough, Australia",3,"Outback Outfitters, Australia",02/12/1976
+29,CU30,Virginia Gomez,michaelking@yahoo.com,"68236 Anna Heights Apt. 647, Kristamouth, Egypt",20,"Pharaoh's Finds, Egypt",17/07/1986
+30,CU31,Aaron Peterson,jennifer26@parsons.com,"392 Kathryn Street, Lake Toddbury, India",8,"Taj Treasures, India",04/10/1989
+31,CU32,Katherine Williams,achoi@hotmail.com,"463 Watkins Row Apt. 934, Maryhaven, South Korea",16,"K-Pop Kiosk, South Korea",12/01/1971
+32,CU33,Paula Ellis,xmyers@hotmail.com,"7699 Edwin Glens Suite 305, Sanchezhaven, India",8,"Taj Treasures, India",08/03/1995
+33,CU34,Bryan Savage,katie00@ruiz.com,"1887 Johnson Garden Suite 527, West Sarahburgh, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",02/10/1977
+34,CU35,Kelly Williams,rachel27@farley.org,"784 Rhonda Fields, Bradleytown, Germany",5,"Berlin Bazaar, Germany",14/12/1983
+35,CU36,Rebecca Bailey,denise93@lozano.com,"35361 Ayers Squares, South Johnfurt, France",4,"Café de Paris, France",02/10/1976
+36,CU37,Patrick Morris,leahkhan@potter-cantrell.com,"335 Sandra Cape Suite 707, Garciachester, China",9,"Panda Plaza, China",13/08/1985
+37,CU38,Andrew Reed,walkerthomas@lewis-berry.info,"96239 Ronald Glens, Anthonyshire, France",4,"Café de Paris, France",08/08/1975
+38,CU39,Tiffany Walters,batesryan@gibson.biz,"991 Rebecca Cliff, Port Nathanstad, South Korea",16,"K-Pop Kiosk, South Korea",21/08/1989
+39,CU40,Shannon Johnson,ellistyler@davis.com,"892 Katelyn Hill, Reynoldsview, France",4,"Café de Paris, France",14/11/1998
+40,CU41,Jeffrey Wilson,jeffrey76@hotmail.com,"3901 Ashley Walk Suite 661, West Rhonda, China",9,"Panda Plaza, China",14/09/1971
+41,CU42,Cheryl Jones,garciasamantha@yahoo.com,"7266 Sharon Manors, Lewiston, Indonesia",17,"Batik Boutique, Indonesia",17/02/1994
+42,CU43,Matthew Holmes,mullinsjohn@vang-murray.com,"9445 Renee Cape Suite 341, Morrisberg, Canada",22,"Perplexity Mall,Canada",24/05/1994
+43,CU44,Megan Blackwell,xwilkins@garcia.biz,"24609 Carrie Prairie Apt. 452, West Ashleytown, Brazil",15,"Samba Store, Brazil",26/11/1977
+44,CU45,Jack Zimmerman,hmiller@gmail.com,"1458 Diane Valley Suite 619, Reynoldsberg, India",8,"Taj Treasures, India",30/08/1974
+45,CU46,Samantha Burke MD,carmen75@cantrell.com,"684 Brown Fields Suite 101, North Travisbury, Turkey",19,"Turkish Treats, Turkey",04/12/1998
+46,CU47,Karen Frye,fmosley@kaufman.com,"73801 Shah Path Apt. 422, North Benjamin, South Africa",7,"Kilimanjaro Crafts, South Africa",18/12/1997
+47,CU48,Wendy Jefferson,elliottrichard@fleming-phillips.com,"5676 Gibson Course, Muellerberg, Colombia",6,"Rio Retailers, Colombia",13/03/1997
+48,CU49,Taylor Lane,wendy30@zimmerman.com,"708 Shelia Squares Apt. 622, East Ethanshire, Canada",22,"Perplexity Mall,Canada",24/08/1981
+49,CU50,Allison Chapman,hessjenna@hotmail.com,"0738 Thompson Throughway Apt. 312, Thomaschester, Thailand",18,"Spice Street, Thailand",11/04/1981
+50,CU51,Matthew Mccarty,npierce@turner.com,"6090 Horton Ville, Burkeland, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",04/02/1980
+51,CU52,Wyatt Compton,cartertrevor@cobb.net,"620 Sharon Divide, East Aaron, France",4,"Café de Paris, France",20/03/1975
+52,CU53,Johnny Blair,hamiltonmatthew@oneal.com,"24910 Harrington Groves Apt. 522, Teresaberg, France",4,"Café de Paris, France",13/01/1989
+53,CU54,Jonathan Howard,wmcgee@noble-reeves.com,"8796 Shelby Parks, Port Sara, Thailand",18,"Spice Street, Thailand",27/01/1993
+54,CU55,Jordan Williams,riveradana@yahoo.com,"50599 Long Valley Apt. 121, Thompsonland, Colombia",6,"Rio Retailers, Colombia",07/06/1974
+55,CU56,James Howard,smalleric@cline.com,"5669 Kayla Square, East Leslie, Germany",5,"Berlin Bazaar, Germany",24/09/1985
+56,CU57,Anthony Peters,jklein@hotmail.com,"76728 Smith Squares, Markmouth, Italy",10,"Pasta Palace, Italy",07/07/1986
+57,CU58,Sonya Lee,hunterjason@hotmail.com,"84968 Parks River Suite 007, Coreyburgh, China",9,"Panda Plaza, China",05/04/1978
+58,CU59,Cheryl Williams,mooreholly@foster.net,"0499 Jessica Lake, Perrychester, Indonesia",17,"Batik Boutique, Indonesia",05/01/1977
+59,CU60,Chad Yates,kherrera@gmail.com,"244 Alexandra Shore Apt. 544, East Andrew, Russia",13,"Moscow Market, Russia",04/05/1981
+60,CU61,Christopher Morales,philip34@yahoo.com,"6463 Alex Wells Suite 500, Stacyton, India",8,"Taj Treasures, India",04/06/1985
+61,CU62,Todd Brewer,arthur60@chavez.com,"42090 Contreras Route Suite 524, Gonzalezfurt, Colombia",6,"Rio Retailers, Colombia",23/12/2004
+62,CU63,Allen Suarez,donaldjames@yahoo.com,"62915 April Track Suite 288, Maldonadoburgh, Italy",10,"Pasta Palace, Italy",11/01/1981
+63,CU64,Henry Williams,martinezdenise@thomas-parsons.biz,"9983 Gillespie Stravenue Apt. 127, North Jamesfort, South Africa",7,"Kilimanjaro Crafts, South Africa",26/05/1972
+64,CU65,Pamela Mccarthy MD,melissa52@gmail.com,"94350 Brown Burg Apt. 812, Port Jason, Thailand",18,"Spice Street, Thailand",22/07/1970
+65,CU66,Patricia Mccullough,audrey62@yahoo.com,"649 Wilson Turnpike Apt. 635, South Jackiechester, South Africa",7,"Kilimanjaro Crafts, South Africa",31/12/1999
+66,CU67,Sara Gray,hintoncaroline@clark-mccoy.com,"79660 Young Lake Apt. 738, Port Haydenville, Turkey",19,"Turkish Treats, Turkey",13/03/2000
+67,CU68,Eileen Roberts,xhickman@bennett-brown.org,"193 Amy Circle Suite 042, New Martin, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",23/04/2000
+68,CU69,Kevin Gardner,david44@ramirez.biz,"585 Nicholas Loop Suite 188, South Jessica, Brazil",15,"Samba Store, Brazil",24/10/1970
+69,CU70,Stephanie Thompson,mperez@navarro-hill.com,"43270 Jones Prairie Suite 922, Port Edwardbury, Colombia",6,"Rio Retailers, Colombia",17/01/1977
+70,CU71,Christine Wright,emilyscott@gmail.com,"7909 Brandon Mall Suite 394, North Kimberly, Egypt",20,"Pharaoh's Finds, Egypt",06/12/1997
+71,CU72,John Bradshaw,martinsteven@foster-cooper.biz,"76241 Cristian Overpass, Lake Karen, Canada",22,"Perplexity Mall,Canada",12/10/1981
+72,CU73,Michael Doyle,dylan52@hotmail.com,"211 Ronald Lock Apt. 702, Martinezland, Russia",13,"Moscow Market, Russia",01/06/1974
+73,CU74,Dr. Nicole Smith,cmckay@kemp-powell.com,"09522 Michael Knolls, North Timothyport, United Kingdom",12,"Royal Retail, United Kingdom",15/04/1999
+74,CU75,Emily Mendoza,joshua89@gmail.com,"484 Joseph Stream Suite 350, Johnsonberg, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",25/07/2000
+75,CU76,Kenneth Spencer,alejandromatthews@jones.info,"32536 White Oval, Avilaside, Argentina",14,"Tango Traders, Argentina",05/10/2001
+76,CU77,Joseph Sanders,osullivan@davis-briggs.net,"314 Levy Summit, Brettmouth, Indonesia",17,"Batik Boutique, Indonesia",03/04/1981
+77,CU78,Peter Stone,philip13@yahoo.com,"66273 Prince Dam Suite 519, East Destiny, Australia",3,"Outback Outfitters, Australia",02/01/1975
+78,CU79,Kelly Jones,fergusonpeter@gmail.com,"0492 Smith Ford Suite 388, Charlesview, Egypt",20,"Pharaoh's Finds, Egypt",17/09/1974
+79,CU80,Kenneth Estes,frank60@gmail.com,"91307 Robinson Ferry Suite 829, Port Jessicaton, Canada",22,"Perplexity Mall,Canada",25/03/2003
+80,CU81,Elizabeth Lyons,wguzman@durham.com,"0946 Mark Port, East David, China",9,"Panda Plaza, China",14/03/1990
+81,CU82,Parker Allen,craig19@hotmail.com,"579 Williams Common, Jonesfort, France",4,"Café de Paris, France",12/03/1999
+82,CU83,William Allen,justinhayden@yahoo.com,"144 Ramirez Spur, South Kristaborough, Germany",5,"Berlin Bazaar, Germany",08/05/2001
+83,CU84,Eric Rodriguez,james19@santos.biz,"3748 Clark Heights Suite 887, Nicoleport, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",03/09/1997
+84,CU85,Jennifer Baker,debbie23@gmail.com,"5556 Alexis Spurs Apt. 748, South Brandy, Russia",13,"Moscow Market, Russia",04/04/1987
+85,CU86,Arthur Hodges,nthompson@jones.com,"89689 Hamilton Lane, Andersonburgh, China",9,"Panda Plaza, China",14/04/2001
+86,CU87,Phillip Hernandez,mmoss@foster-mitchell.com,"557 Frost Union, Lake Alexisland, Turkey",19,"Turkish Treats, Turkey",28/02/1979
+87,CU88,Sherri Mcgrath,cmiller@gmail.com,"443 Charles Curve, North Laura, United Kingdom",12,"Royal Retail, United Kingdom",15/05/1983
+88,CU89,Rebecca Jones,kochpeter@yahoo.com,"8284 Ward Corner Suite 091, Fieldsfort, South Africa",7,"Kilimanjaro Crafts, South Africa",26/11/1986
+89,CU90,Sierra Becker,rodriguezkatherine@thompson.net,"157 Brown Bridge, Carolynton, South Africa",7,"Kilimanjaro Crafts, South Africa",07/08/2005
+90,CU91,Arthur Sanchez,tranalexa@stein.com,"40272 Price Flats, South Josephfurt, Germany",5,"Berlin Bazaar, Germany",28/04/1972
+91,CU92,Jennifer Myers,martinezanthony@proctor.com,"5421 Terri Stream, Edwardsmouth, Japan",2,"Sakura Shop, Japan",08/02/2001
+92,CU93,Vickie Roberson,swhite@sweeney.biz,"81865 Morgan Pike, South Kaitlinport, Australia",3,"Outback Outfitters, Australia",03/08/2003
+93,CU94,Matthew Copeland,tracynovak@moore.net,"1155 Cox Causeway, West Kathleenbury, South Korea",16,"K-Pop Kiosk, South Korea",21/07/1991
+94,CU95,Dana Walters,butlerbruce@gmail.com,"1956 Clark Alley Apt. 152, East Adam, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",10/01/1983
+95,CU96,Larry Daniels,ericahess@mitchell.com,"9538 Arroyo Corner, New Angelafurt, Italy",10,"Pasta Palace, Italy",07/05/1997
+96,CU97,Laura Yates,hector73@mayer.com,"35570 Dawn Spur, West Rhondaville, France",4,"Café de Paris, France",07/07/1977
+97,CU98,Edward Espinoza,henrydavid@powell-stephenson.com,"1218 Beth Overpass, New Brianaborough, Thailand",18,"Spice Street, Thailand",13/05/1975
+98,CU99,Andre Mejia,annalee@hamilton-smith.org,"39229 Jessica Shore, Clarkside, Germany",5,"Berlin Bazaar, Germany",18/03/1988
+99,CU100,Francisco Wood,pbaker@huynh-gonzalez.com,"0251 Marissa Pines, Hallmouth, Colombia",6,"Rio Retailers, Colombia",29/11/1981
+100,CU101,Nicole Vasquez,vincent16@yahoo.com,"9628 Christopher Cape, Lake Glen, United States",11,"Union Square Mart, United States",20/09/1980
+101,CU102,Jessica Figueroa,rhondacastillo@yahoo.com,"242 Banks Estate, South Marissa, France",4,"Café de Paris, France",06/10/1996
+102,CU103,Jacob Fisher,arnoldjessica@mora.biz,"177 Jasmine Tunnel Apt. 428, Taylorland, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",28/08/1991
+103,CU104,Jennifer Wright,randy54@buckley.info,"52737 Bianca Passage Apt. 857, Hernandezchester, Italy",10,"Pasta Palace, Italy",25/06/1999
+104,CU105,Samantha Galvan,jonathanjordan@yahoo.com,"07779 Robert Neck Apt. 739, Sydneyshire, South Korea",16,"K-Pop Kiosk, South Korea",21/01/1987
+105,CU106,Alice Patrick,ryan73@burke.com,"66087 Larson Forge, West Staceyfort, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",19/03/1970
+106,CU107,John Rodgers,yjacobs@hill.com,"51300 Gibson Meadows, Steveberg, South Africa",7,"Kilimanjaro Crafts, South Africa",17/07/1987
+107,CU108,Stephanie Barrett,lewisjames@yahoo.com,"899 Krystal Plains Suite 503, Campbellchester, South Africa",7,"Kilimanjaro Crafts, South Africa",08/08/1997
+108,CU109,Joshua Wright MD,frederickblack@curtis.com,"393 Sonia Stream Suite 883, Benjaminshire, South Africa",7,"Kilimanjaro Crafts, South Africa",17/07/1989
+109,CU110,Michele Peterson,michael76@lewis.com,"142 Yvonne Corner Apt. 619, South Mallory, Argentina",14,"Tango Traders, Argentina",22/03/1980
+110,CU111,Erik Mcmahon,blackvirginia@wood.org,"36801 Harold Stravenue Apt. 602, Emilyland, United Kingdom",12,"Royal Retail, United Kingdom",13/11/1985
+111,CU112,Rebecca Vasquez,fsmith@yahoo.com,"739 Kathy Cove, Lake Cassandra, China",9,"Panda Plaza, China",02/08/1970
+112,CU113,Emma Martinez,jeffrey58@lee.com,"8026 Murphy Street, Lauriemouth, Italy",10,"Pasta Palace, Italy",17/04/1985
+113,CU114,Joshua Rodriguez,davidhernandez@hotmail.com,"8124 Taylor Parks, Keithfort, France",4,"Café de Paris, France",06/10/1993
+114,CU115,Monique Underwood,tayloranthony@gmail.com,"1229 Kelly Squares Apt. 847, Lake Jennifer, Italy",10,"Pasta Palace, Italy",16/01/1990
+115,CU116,Patricia Mcdowell,wonglaura@gmail.com,"3526 Kelly Brook, Mendozachester, Brazil",15,"Samba Store, Brazil",19/07/1973
+116,CU117,Andrew Rodriguez,lauraleon@yahoo.com,"76428 Christopher Ridge Suite 620, Port Brandyview, Japan",2,"Sakura Shop, Japan",09/02/1991
+117,CU118,Daniel Sanchez,joseph97@jackson.com,"1854 Marcus Village, Amandachester, Italy",10,"Pasta Palace, Italy",16/11/2004
+118,CU119,Dr. Margaret Copeland DDS,chelsea21@carroll-taylor.com,"9623 Norton Hill Suite 592, Lake Brittany, China",9,"Panda Plaza, China",27/01/1974
+119,CU120,Dawn Higgins,jamesjackson@henry.biz,"08505 Chavez Harbor, Jamesburgh, Colombia",6,"Rio Retailers, Colombia",06/10/1981
+120,CU121,Jacqueline Robertson,gutierrezstephanie@adams.com,"338 Nelson Junction Suite 859, South Georgeburgh, Germany",5,"Berlin Bazaar, Germany",12/07/1988
+121,CU122,Mrs. Mckenzie Rodriguez DDS,jamie49@avila.org,"1161 Kyle Crossing Suite 215, Pearsonside, Canada",22,"Perplexity Mall,Canada",13/04/2004
+122,CU123,Regina Edwards,dylan75@gmail.com,"452 Robert Track Suite 655, East Valerie, South Korea",16,"K-Pop Kiosk, South Korea",30/10/2005
+123,CU124,Andrea Nelson,scollins@white.com,"74327 Ashley Pass, West Kevinmouth, Australia",3,"Outback Outfitters, Australia",19/04/1997
+124,CU125,Chase Hicks,pmcgrath@gmail.com,"2311 Isaiah Vista Suite 076, Savagetown, Egypt",20,"Pharaoh's Finds, Egypt",11/11/1970
+125,CU126,Shannon Martin,alexander82@gmail.com,"100 Cynthia Overpass, West Maureen, Brazil",15,"Samba Store, Brazil",04/08/1971
+126,CU127,Kevin Gardner,tgarcia@gmail.com,"590 Burns Place, Ashleeberg, China",9,"Panda Plaza, China",11/03/1983
+127,CU128,Antonio Brown,ericjohnson@yahoo.com,"10303 Brown Ranch, Erinfurt, Colombia",6,"Rio Retailers, Colombia",10/11/1974
+128,CU129,Dr. Amanda Greer,ukennedy@gonzales.net,"810 Mills Locks, Lake Rileyside, Australia",3,"Outback Outfitters, Australia",21/01/1994
+129,CU130,Vincent Cohen,michael17@ford.com,"9803 Yvette Highway Apt. 026, North Lauraland, Argentina",14,"Tango Traders, Argentina",07/04/2005
+130,CU131,Jennifer Little MD,denise86@gmail.com,"3605 Kristin Route Apt. 987, West Michaela, South Korea",16,"K-Pop Kiosk, South Korea",22/11/1986
+131,CU132,Kimberly Baker,tjohnson@hotmail.com,"461 Michael Spur Apt. 744, New Anita, Colombia",6,"Rio Retailers, Colombia",12/07/1984
+132,CU133,Andre Brown,nicolethomas@hotmail.com,"0754 Henry Glens, Port Stephenmouth, South Africa",7,"Kilimanjaro Crafts, South Africa",20/10/2001
+133,CU134,Vanessa Bennett,griffinlaurie@gmail.com,"00784 Melissa Villages, Gonzalezfort, Japan",2,"Sakura Shop, Japan",22/11/1999
+134,CU135,Sharon Ortiz,antoniowilliams@flores.com,"7591 Julie Points, Schneiderchester, Canada",22,"Perplexity Mall,Canada",09/08/1971
+135,CU136,David White,shawnclark@figueroa.com,"4339 Lloyd Mountain, Lake Michael, Canada",22,"Perplexity Mall,Canada",02/02/1972
+136,CU137,Calvin Levine,brucejames@hotmail.com,"0499 Allen Valley Apt. 804, Edwardborough, Colombia",6,"Rio Retailers, Colombia",31/05/1996
+137,CU138,Aimee Richardson,erik79@chase-rogers.info,"592 Shaw Junctions, Grantstad, United States",11,"Union Square Mart, United States",16/10/2002
+138,CU139,Jordan Bailey,zachary70@sandoval.net,"65538 Garcia Field, Briantown, Japan",2,"Sakura Shop, Japan",15/04/1973
+139,CU140,Karen Franklin,christensenkimberly@gmail.com,"10989 Joseph Shoals Apt. 014, Vanessastad, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",15/01/1988
+140,CU141,Kiara Harrington,dmartinez@moyer-freeman.net,"83795 Huang Dale Suite 831, Port Kennethburgh, Brazil",15,"Samba Store, Brazil",13/03/1980
+141,CU142,Dana Clark,michael05@gmail.com,"0846 Wilson Circle, Alexanderberg, Turkey",19,"Turkish Treats, Turkey",13/06/1996
+142,CU143,Ricardo Bates,alexandrahorn@gmail.com,"1640 Sherry Center, Douglasburgh, France",4,"Café de Paris, France",16/02/1996
+143,CU144,Christopher Crawford,michaelclark@yahoo.com,"2494 Caleb Port Apt. 277, Nicholastown, Australia",3,"Outback Outfitters, Australia",23/10/1975
+144,CU145,Jeremy Glover,lamcharles@thomas.com,"54074 Sanchez Union, East Melissa, France",4,"Café de Paris, France",09/03/2005
+145,CU146,Rachael Mcguire,joanroberts@gmail.com,"87449 Moore Shore, Richardfort, India",8,"Taj Treasures, India",22/01/1997
+146,CU147,Gina Morris,sparksmary@yahoo.com,"3367 Hunter Loaf Suite 328, Kingshire, Thailand",18,"Spice Street, Thailand",26/04/2000
+147,CU148,Richard Spencer,rreilly@gmail.com,"5331 Michael Trail, New Richardland, United Kingdom",12,"Royal Retail, United Kingdom",14/10/1983
+148,CU149,Jack Moore,wendy75@clark.com,"6113 Nicholas Lake Apt. 190, Roberthaven, Argentina",14,"Tango Traders, Argentina",04/01/1984
+149,CU150,Victoria Cabrera,johnpena@campbell.net,"890 Jones Stream, Lake Steve, Italy",10,"Pasta Palace, Italy",11/03/1987
+150,CU151,Cameron Garcia,xkent@clark-benitez.com,"9137 Bowers Tunnel, West David, Canada",22,"Perplexity Mall,Canada",23/12/2001
+151,CU152,Paul Holmes,timothy50@woodard-bailey.info,"3911 Poole Route Apt. 176, East Amyton, United States",11,"Union Square Mart, United States",20/06/1978
+152,CU153,William Scott,zvasquez@rodgers.com,"965 Howard Island, Traciville, Colombia",6,"Rio Retailers, Colombia",17/09/1984
+153,CU154,Anna Green,laura56@yahoo.com,"868 Kelly Plain Suite 681, Timothystad, India",8,"Taj Treasures, India",01/04/1990
+154,CU155,Ryan Conrad,jasonevans@hotmail.com,"43556 Vaughn Branch Suite 795, Riverachester, Canada",22,"Perplexity Mall,Canada",20/04/2003
+155,CU156,John Hicks,kristinwalker@yahoo.com,"6583 Sheila Forges Apt. 150, South Ericburgh, China",9,"Panda Plaza, China",25/06/1980
+156,CU157,Phillip Odom,sabrina85@yahoo.com,"48752 Taylor Glens Apt. 640, Stevenberg, Brazil",15,"Samba Store, Brazil",26/02/1971
+157,CU158,Heather Rogers,jhernandez@hotmail.com,"5784 Lydia Pine, Woodton, Japan",2,"Sakura Shop, Japan",21/09/1996
+158,CU159,Tammy Callahan,ehernandez@yahoo.com,"222 Torres Dam, Coltonshire, South Korea",16,"K-Pop Kiosk, South Korea",26/07/1993
+159,CU160,Michelle Carson,melanie18@gmail.com,"921 White Loop Suite 490, North Joelfurt, Egypt",20,"Pharaoh's Finds, Egypt",13/01/2004
+160,CU161,Michael Torres,timothy14@hotmail.com,"24054 Kristen Prairie, Robinsonton, Russia",13,"Moscow Market, Russia",19/08/1994
+161,CU162,Beverly Chapman MD,ashley22@johnson.com,"06204 Garcia Islands Apt. 977, West Whitney, Argentina",14,"Tango Traders, Argentina",10/05/1989
+162,CU163,Chad Smith MD,michelle06@hotmail.com,"1960 Stephen Curve, South Willie, Japan",2,"Sakura Shop, Japan",30/12/1995
+163,CU164,Rhonda White,jonesomar@gmail.com,"4876 Wu Village Apt. 794, West Johntown, Indonesia",17,"Batik Boutique, Indonesia",18/08/1977
+164,CU165,David Carey,mary95@gmail.com,"00613 Kimberly Crossroad, South Jesse, India",8,"Taj Treasures, India",03/09/1991
+165,CU166,Bob Singh,stevenbrown@hotmail.com,"6722 Daniel Lakes, Lake Marissa, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",09/08/1982
+166,CU167,Kelsey Clarke,christiangeorge@yahoo.com,"547 Lopez Locks Suite 094, South Eddie, Thailand",18,"Spice Street, Thailand",24/11/1985
+167,CU168,Mark Moore,kimberlyrubio@gmail.com,"003 Cody Hills Suite 405, Lake Samanthaborough, South Korea",16,"K-Pop Kiosk, South Korea",23/10/1997
+168,CU169,Mrs. Tracy Myers,huntkristie@miller-davis.com,"6592 Davis Street, West Patriciaside, United States",11,"Union Square Mart, United States",19/10/1990
+169,CU170,Rebecca Mcgrath,lhopkins@choi.com,"1136 Mary Locks Apt. 240, West James, Germany",5,"Berlin Bazaar, Germany",10/12/2005
+170,CU171,Angela Wilson,catherine38@yahoo.com,"7390 Adams Vista, South Kevinhaven, United Kingdom",12,"Royal Retail, United Kingdom",22/06/1992
+171,CU172,Adrian Walker,allison57@gmail.com,"4650 Black Throughway Suite 181, North Andreastad, China",9,"Panda Plaza, China",27/09/1978
+172,CU173,Kathy Roberts,deborahclark@peterson-delgado.biz,"8641 Mark Flat Suite 078, Brandthaven, China",9,"Panda Plaza, China",26/12/1990
+173,CU174,Donna Castillo,stevensonlance@kaiser.com,"334 Dean Streets, Gregoryborough, Argentina",14,"Tango Traders, Argentina",28/06/1985
+174,CU175,Isaac Jefferson,stevenjames@martinez.com,"637 Phillips Cove, Port Kevin, Argentina",14,"Tango Traders, Argentina",11/03/1971
+175,CU176,Kellie Cook,khandaniel@savage.info,"04824 Whitaker Skyway, New Annahaven, South Africa",7,"Kilimanjaro Crafts, South Africa",11/06/2001
+176,CU177,Timothy Kennedy,robertmitchell@hotmail.com,"012 Cochran Parks Suite 093, Lake Johnberg, Turkey",19,"Turkish Treats, Turkey",10/05/1994
+177,CU178,Christopher Gonzalez,janetthompson@yahoo.com,"825 Hernandez Motorway Apt. 575, Rodriguezmouth, Colombia",6,"Rio Retailers, Colombia",08/01/1978
+178,CU179,Holly Gutierrez,virginiacollins@gmail.com,"8433 Christopher Views, Bishopburgh, Australia",3,"Outback Outfitters, Australia",20/01/1987
+179,CU180,Donna Cook,amills@molina.org,"599 Ramos Terrace, Fryborough, Indonesia",17,"Batik Boutique, Indonesia",28/08/2005
+180,CU181,Carrie Johnson,egreene@caldwell.info,"7409 Ashley Garden Suite 515, Loganshire, France",4,"Café de Paris, France",18/10/2005
+181,CU182,Anna Goodwin,fallen@gmail.com,"4506 Michael Mall Apt. 584, South Christophermouth, United States",11,"Union Square Mart, United States",05/08/1983
+182,CU183,Scott King,sellerstammy@hotmail.com,"9102 Brandy Gateway, Smithside, Australia",3,"Outback Outfitters, Australia",14/02/2002
+183,CU184,Anna Williams,charles79@wallace-thornton.com,"1562 Mcintosh Road Apt. 480, Rodriguezburgh, Thailand",18,"Spice Street, Thailand",15/12/1980
+184,CU185,Andrea Rodriguez,madison52@bolton.com,"105 Abigail Shoals Apt. 011, Andrewport, United Kingdom",12,"Royal Retail, United Kingdom",18/08/1989
+185,CU186,Taylor Wilson,michaelmorris@green.com,"4373 Alexander Oval Apt. 000, Brownbury, Brazil",15,"Samba Store, Brazil",16/03/1980
+186,CU187,Katherine Love,nharvey@ross.com,"2428 Shelly Burg, North Jessefort, Canada",22,"Perplexity Mall,Canada",09/10/1996
+187,CU188,Robin Long,dianewise@yahoo.com,"3862 Brown Run, Masonfurt, India",8,"Taj Treasures, India",21/11/1985
+188,CU189,Wesley Morales,xnelson@hotmail.com,"82444 Joel Throughway Suite 741, Kendrachester, United Kingdom",12,"Royal Retail, United Kingdom",18/07/2003
+189,CU190,Tracy House,uhunt@wilcox-erickson.com,"709 Thornton Shores, Samanthafort, China",9,"Panda Plaza, China",22/09/1972
+190,CU191,Jacob Medina,garymacdonald@hayes.net,"014 Hoffman Canyon, Diazfort, Colombia",6,"Rio Retailers, Colombia",16/06/1971
+191,CU192,Anna Baker,georgehart@stevenson-smith.biz,"412 Elliott Lodge, Masonport, India",8,"Taj Treasures, India",01/05/1972
+192,CU193,John Osborn,garciacarlos@yahoo.com,"61066 Chambers Island, Port Leah, South Korea",16,"K-Pop Kiosk, South Korea",07/11/1991
+193,CU194,Katie Larson,robinsonmonica@yahoo.com,"47986 Jason Street, Tonychester, United Kingdom",12,"Royal Retail, United Kingdom",25/04/2002
+194,CU195,Victoria Aguilar,hebertjeffrey@powers.com,"9570 Clark Walks Suite 098, Blakeview, South Africa",7,"Kilimanjaro Crafts, South Africa",07/11/1980
+195,CU196,Brittany Scott,susangarcia@buchanan-robinson.org,"4934 Rachael Mountain Apt. 067, West Mary, China",9,"Panda Plaza, China",02/12/1991
+196,CU197,Lisa Garcia,john21@sanchez-foley.com,"93198 Angela Roads Apt. 876, North Philipport, South Africa",7,"Kilimanjaro Crafts, South Africa",17/10/1982
+197,CU198,Amber Hernandez,timothysmith@yahoo.com,"5798 Mathis Crossing, Jennifermouth, South Africa",7,"Kilimanjaro Crafts, South Africa",24/05/1998
+198,CU199,Mitchell Martin,brianramirez@jones.com,"3964 Kenneth Stream, Stephenview, Egypt",20,"Pharaoh's Finds, Egypt",25/02/1986
+199,CU200,Valerie Taylor,john29@gmail.com,"666 Schultz Bypass Suite 034, Diazhaven, India",8,"Taj Treasures, India",20/08/1984
+200,CU201,Melvin Fernandez,vhartman@sanchez.com,"325 Schneider Parkway, Port Danielside, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",24/12/1983
+201,CU202,Alyssa Diaz,jessegarcia@contreras.info,"033 Robert Burg Suite 019, South Hailey, France",4,"Café de Paris, France",31/10/1982
+202,CU203,Stephanie Wilson,michelle37@hotmail.com,"2318 Douglas Club, South Isaiah, Brazil",15,"Samba Store, Brazil",23/11/1973
+203,CU204,Brian Martin,acostaleslie@gmail.com,"34849 Cervantes Expressway Apt. 963, South Bryan, South Africa",7,"Kilimanjaro Crafts, South Africa",11/07/1984
+204,CU205,Nicole Smith,snelson@hotmail.com,"49346 King Cliff Suite 577, Port Janicefurt, Turkey",19,"Turkish Treats, Turkey",06/09/1992
+205,CU206,Valerie Garcia,erik00@wolfe.com,"733 Daniel Crescent Apt. 695, Glennmouth, Italy",10,"Pasta Palace, Italy",07/07/2002
+206,CU207,Spencer Smith,marywilson@gmail.com,"0094 Timothy Loop Apt. 562, New Kevinton, Brazil",15,"Samba Store, Brazil",13/10/1985
+207,CU208,Mark Sandoval,elizabethholt@ayers.com,"8392 Lewis Ford Apt. 350, Quinnmouth, India",8,"Taj Treasures, India",06/03/1995
+208,CU209,Garrett Petersen,jamessloan@hotmail.com,"490 Sandoval Trail Apt. 811, Chamberston, France",4,"Café de Paris, France",28/12/1998
+209,CU210,Laurie Hodges,thomas23@yahoo.com,"48885 Ashley Street Suite 771, Lake Chadbury, Australia",3,"Outback Outfitters, Australia",27/05/1985
+210,CU211,Allison Joseph,tfrancis@hotmail.com,"8218 Cynthia Shoals, Lake Williamberg, United States",11,"Union Square Mart, United States",14/04/2001
+211,CU212,Caroline Sanders,staceyreynolds@rivera.biz,"67899 Alexander Place Apt. 711, Shellyberg, Saudi Arabia",21,"Desert Dunes, Saudi Arabia",29/01/1991
+212,CU213,Brenda Strickland,craiglee@hotmail.com,"921 Fox Center, Chandlerbury, South Korea",16,"K-Pop Kiosk, South Korea",25/11/1984
+213,CU214,Debra Nelson,alexisclay@casey.com,"309 Kathleen Spur Suite 532, Lake Davidberg, South Africa",7,"Kilimanjaro Crafts, South Africa",23/10/1972
+214,CU215,Jill Hunt,emily05@harmon.info,"4202 Amy Overpass Apt. 039, East Jennifermouth, China",9,"Panda Plaza, China",10/07/1976
+215,CU216,Alicia Lopez,matthew95@gmail.com,"4136 Hughes Creek, Wilkinsside, Australia",3,"Outback Outfitters, Australia",06/07/1990
+216,CU217,Andrew Coffey,pgarner@mckay.net,"23135 Brown Square Apt. 721, Port Zacharyfort, Thailand",18,"Spice Street, Thailand",24/05/2005
+217,CU218,Randy Davis,copelandmichele@yahoo.com,"910 Collins Cove Suite 732, Lake Jackburgh, Japan",2,"Sakura Shop, Japan",03/12/1998
+218,CU219,Kelly Williams,vickibentley@gmail.com,"74980 Miller Cliff Apt. 339, Hernandezchester, Thailand",18,"Spice Street, Thailand",17/12/2002
+219,CU220,Daniel Lewis,christinahanna@walters.com,"14304 Adam Square, North Henry, Canada",22,"Perplexity Mall,Canada",25/09/1973
+220,CU221,Amber Taylor,alexbrown@yahoo.com,"841 Moore Ways Apt. 843, East Erica, Italy",10,"Pasta Palace, Italy",29/01/1975
+221,CU222,Miss Sarah Harrison,sparkspatricia@hotmail.com,"33558 Joshua Gateway Suite 560, West Timothy, South Africa",7,"Kilimanjaro Crafts, South Africa",04/04/1983
+222,CU223,James Barton,danielledaniel@ramos-mitchell.com,"91902 Karen Groves Suite 697, Lake Christine, Thailand",18,"Spice Street, Thailand",24/08/2003
+223,CU224,Anthony Morgan,rogerwilliams@gmail.com,"093 Walker Fords Suite 408, North George, Thailand",18,"Spice Street, Thailand",23/05/1987
+224,CU225,Robert Sampson,davidanderson@yahoo.com,"41761 Joseph Inlet Suite 643, South Sandrahaven, France",4,"Café de Paris, France",11/04/1982
+225,CU226,Roger Curry,dannypeters@rogers.com,"8088 Medina Road, Port Adam, Egypt",20,"Pharaoh's Finds, Egypt",02/04/2002
+226,CU227,Amber Harrington MD,jessicawilliamson@gmail.com,"15973 Robinson Squares Suite 466, North Michaelville, Italy",10,"Pasta Palace, Italy",04/07/1998
+227,CU228,Cameron Richardson Jr.,jaimekline@murray-hayes.com,"717 Greer Junctions Suite 545, South Karenberg, China",9,"Panda Plaza, China",27/12/1990
+228,CU229,Erika Ware,amanda47@parker.com,"71031 Derek Prairie Apt. 589, New Matthewland, Italy",10,"Pasta Palace, Italy",09/01/1999
+229,CU230,Marie Jacobs,kim52@salinas-adams.org,"6327 Eric Turnpike Apt. 080, Daviesburgh, Canada",22,"Perplexity Mall,Canada",31/05/2002
+230,CU231,Ms. Mary Ochoa PhD,ann13@chase.net,"479 Sheena Rapids Apt. 225, South Jenniferbury, South Korea",16,"K-Pop Kiosk, South Korea",21/07/1989
+231,CU232,Colleen Zhang,sandy65@willis.org,"916 Jonathan Forges, Susantown, United States",11,"Union Square Mart, United States",28/06/1972
+232,CU233,Mr. Michael Bailey,ywalker@yahoo.com,"3229 Moran Pike Suite 178, Nicolehaven, Italy",10,"Pasta Palace, Italy",06/08/1971
+233,CU234,Phyllis Baxter,andrea78@hotmail.com,"7525 Lisa Highway, Lopezburgh, India",8,"Taj Treasures, India",28/05/1997

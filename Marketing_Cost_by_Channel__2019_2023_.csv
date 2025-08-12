@@ -1,0 +1,361 @@
+Year,Month,Channel,Cost (MYR)
+2019,1,Facebook Ads,1797.07
+2019,1,Google Ads,6537.27
+2019,1,Email Marketing,2004.3
+2019,1,Influencer,8158.88
+2019,1,TV,3719.93
+2019,1,Billboard,9331.06
+2019,2,Facebook Ads,4906.42
+2019,2,Google Ads,6304.68
+2019,2,Email Marketing,4290.27
+2019,2,Influencer,3043.99
+2019,2,TV,1334.97
+2019,2,Billboard,8268.42
+2019,3,Facebook Ads,4217.69
+2019,3,Google Ads,6369.96
+2019,3,Email Marketing,5203.58
+2019,3,Influencer,5472.43
+2019,3,TV,9641.39
+2019,3,Billboard,3884.93
+2019,4,Facebook Ads,8231.93
+2019,4,Google Ads,7760.48
+2019,4,Email Marketing,1702.02
+2019,4,Influencer,8396.66
+2019,4,TV,2113.85
+2019,4,Billboard,7815.21
+2019,5,Facebook Ads,1561.8
+2019,5,Google Ads,3106.69
+2019,5,Email Marketing,9610.54
+2019,5,Influencer,8324.17
+2019,5,TV,2624.23
+2019,5,Billboard,7269.93
+2019,6,Facebook Ads,3355.88
+2019,6,Google Ads,2678.22
+2019,6,Email Marketing,7366.72
+2019,6,Influencer,9993.82
+2019,6,TV,4853.1
+2019,6,Billboard,6766.63
+2019,7,Facebook Ads,8225.82
+2019,7,Google Ads,9185.89
+2019,7,Email Marketing,4580.42
+2019,7,Influencer,9064.52
+2019,7,TV,1792.15
+2019,7,Billboard,3893.18
+2019,8,Facebook Ads,3068.36
+2019,8,Google Ads,9326.75
+2019,8,Email Marketing,2453.23
+2019,8,Influencer,1202.56
+2019,8,TV,3897.88
+2019,8,Billboard,8745.77
+2019,9,Facebook Ads,7548.54
+2019,9,Google Ads,2554.7
+2019,9,Email Marketing,9830.83
+2019,9,Influencer,8856.86
+2019,9,TV,6769.92
+2019,9,Billboard,7827.91
+2019,10,Facebook Ads,7240.47
+2019,10,Google Ads,564.28
+2019,10,Email Marketing,9436.53
+2019,10,Influencer,9363.77
+2019,10,TV,5323.41
+2019,10,Billboard,2940.76
+2019,11,Facebook Ads,9474.7
+2019,11,Google Ads,2598.1
+2019,11,Email Marketing,4892.77
+2019,11,Influencer,709.03
+2019,11,TV,7574.41
+2019,11,Billboard,7778.3
+2019,12,Facebook Ads,5144.98
+2019,12,Google Ads,2207.47
+2019,12,Email Marketing,838.2
+2019,12,Influencer,4545.27
+2019,12,TV,3509.5
+2019,12,Billboard,654.97
+2020,1,Facebook Ads,8091.46
+2020,1,Google Ads,7557.21
+2020,1,Email Marketing,9323.66
+2020,1,Influencer,5311.45
+2020,1,TV,7796.66
+2020,1,Billboard,3509.14
+2020,2,Facebook Ads,8687.69
+2020,2,Google Ads,529.09
+2020,2,Email Marketing,7976.33
+2020,2,Influencer,5478.91
+2020,2,TV,1198.97
+2020,2,Billboard,6283.88
+2020,3,Facebook Ads,2815.24
+2020,3,Google Ads,1032.11
+2020,3,Email Marketing,3173.92
+2020,3,Influencer,9097.28
+2020,3,TV,923.28
+2020,3,Billboard,1973.96
+2020,4,Facebook Ads,8396.29
+2020,4,Google Ads,1102.53
+2020,4,Email Marketing,664.74
+2020,4,Influencer,1954.21
+2020,4,TV,3216.13
+2020,4,Billboard,2631.34
+2020,5,Facebook Ads,8150.33
+2020,5,Google Ads,4439.13
+2020,5,Email Marketing,3211.55
+2020,5,Influencer,724.31
+2020,5,TV,7939.79
+2020,5,Billboard,5669.47
+2020,6,Facebook Ads,7861.98
+2020,6,Google Ads,7607.44
+2020,6,Email Marketing,5068.25
+2020,6,Influencer,4563.11
+2020,6,TV,3200.21
+2020,6,Billboard,785.01
+2020,7,Facebook Ads,7506.64
+2020,7,Google Ads,9737.77
+2020,7,Email Marketing,7418.07
+2020,7,Influencer,6552.46
+2020,7,TV,5813.17
+2020,7,Billboard,9919.22
+2020,8,Facebook Ads,7346.14
+2020,8,Google Ads,2591.07
+2020,8,Email Marketing,4325.4
+2020,8,Influencer,7729.98
+2020,8,TV,4211.92
+2020,8,Billboard,3158.58
+2020,9,Facebook Ads,1871.85
+2020,9,Google Ads,8866.89
+2020,9,Email Marketing,5228.99
+2020,9,Influencer,3953.05
+2020,9,TV,9259.04
+2020,9,Billboard,1800.89
+2020,10,Facebook Ads,949.66
+2020,10,Google Ads,7148.12
+2020,10,Email Marketing,8460.74
+2020,10,Influencer,6500.78
+2020,10,TV,4877.82
+2020,10,Billboard,3881.25
+2020,11,Facebook Ads,3003.98
+2020,11,Google Ads,5415.5
+2020,11,Email Marketing,6120.09
+2020,11,Influencer,2797.99
+2020,11,TV,4283.34
+2020,11,Billboard,2570.01
+2020,12,Facebook Ads,8592.63
+2020,12,Google Ads,2529.5
+2020,12,Email Marketing,3059.4
+2020,12,Influencer,6099.3
+2020,12,TV,6976.42
+2020,12,Billboard,2224.73
+2021,1,Facebook Ads,5086.32
+2021,1,Google Ads,1793.6
+2021,1,Email Marketing,2924.88
+2021,1,Influencer,6041.26
+2021,1,TV,5639.13
+2021,1,Billboard,8566.99
+2021,2,Facebook Ads,3244.15
+2021,2,Google Ads,8684.48
+2021,2,Email Marketing,7293.59
+2021,2,Influencer,7081.84
+2021,2,TV,8449.22
+2021,2,Billboard,9070.6
+2021,3,Facebook Ads,8764.6
+2021,3,Google Ads,8895.41
+2021,3,Email Marketing,5413.37
+2021,3,Influencer,1714.14
+2021,3,TV,8296.55
+2021,3,Billboard,6042.99
+2021,4,Facebook Ads,8843.44
+2021,4,Google Ads,5081.55
+2021,4,Email Marketing,7196.71
+2021,4,Influencer,6482.85
+2021,4,TV,7646.67
+2021,4,Billboard,7757.24
+2021,5,Facebook Ads,3946.65
+2021,5,Google Ads,1461.69
+2021,5,Email Marketing,8105.23
+2021,5,Influencer,5794.99
+2021,5,TV,6495.64
+2021,5,Billboard,6119.1
+2021,6,Facebook Ads,4533.21
+2021,6,Google Ads,3363.89
+2021,6,Email Marketing,9013.48
+2021,6,Influencer,892.13
+2021,6,TV,521.58
+2021,6,Billboard,6163.06
+2021,7,Facebook Ads,1444.55
+2021,7,Google Ads,6803.88
+2021,7,Email Marketing,9609.51
+2021,7,Influencer,6845.04
+2021,7,TV,4856.48
+2021,7,Billboard,6247.76
+2021,8,Facebook Ads,8080.93
+2021,8,Google Ads,8856.72
+2021,8,Email Marketing,3188.38
+2021,8,Influencer,3595.04
+2021,8,TV,8095.51
+2021,8,Billboard,3985.17
+2021,9,Facebook Ads,5561.04
+2021,9,Google Ads,2867.83
+2021,9,Email Marketing,7754.48
+2021,9,Influencer,8386.91
+2021,9,TV,8139.67
+2021,9,Billboard,6198.36
+2021,10,Facebook Ads,1722.59
+2021,10,Google Ads,1355.32
+2021,10,Email Marketing,5565.61
+2021,10,Influencer,5287.07
+2021,10,TV,1490.94
+2021,10,Billboard,7946.2
+2021,11,Facebook Ads,8139.42
+2021,11,Google Ads,7398.34
+2021,11,Email Marketing,3748.32
+2021,11,Influencer,5481.94
+2021,11,TV,4852.93
+2021,11,Billboard,6056.64
+2021,12,Facebook Ads,8883.35
+2021,12,Google Ads,6578.66
+2021,12,Email Marketing,2048.63
+2021,12,Influencer,2207.71
+2021,12,TV,7376.69
+2021,12,Billboard,4854.35
+2022,1,Facebook Ads,1064.79
+2022,1,Google Ads,4730.49
+2022,1,Email Marketing,5864.94
+2022,1,Influencer,2375.2
+2022,1,TV,3790.6
+2022,1,Billboard,4250.27
+2022,2,Facebook Ads,4804.39
+2022,2,Google Ads,1079.74
+2022,2,Email Marketing,5835.21
+2022,2,Influencer,4566.99
+2022,2,TV,6066.26
+2022,2,Billboard,8809.85
+2022,3,Facebook Ads,9052.81
+2022,3,Google Ads,3042.21
+2022,3,Email Marketing,7661.73
+2022,3,Influencer,5111.39
+2022,3,TV,1978.66
+2022,3,Billboard,9718.05
+2022,4,Facebook Ads,4600.83
+2022,4,Google Ads,8875.39
+2022,4,Email Marketing,9086.57
+2022,4,Influencer,6040.24
+2022,4,TV,9784.77
+2022,4,Billboard,3115.29
+2022,5,Facebook Ads,4214.43
+2022,5,Google Ads,2416.53
+2022,5,Email Marketing,3558.36
+2022,5,Influencer,8525.53
+2022,5,TV,3198.39
+2022,5,Billboard,5657.21
+2022,6,Facebook Ads,906.08
+2022,6,Google Ads,3227.94
+2022,6,Email Marketing,9971.47
+2022,6,Influencer,8517.86
+2022,6,TV,5850.35
+2022,6,Billboard,1136.9
+2022,7,Facebook Ads,4167.85
+2022,7,Google Ads,1887.38
+2022,7,Email Marketing,6292.9
+2022,7,Influencer,6020.81
+2022,7,TV,3655.92
+2022,7,Billboard,8286.12
+2022,8,Facebook Ads,3868.1
+2022,8,Google Ads,8319.61
+2022,8,Email Marketing,749.42
+2022,8,Influencer,8603.24
+2022,8,TV,6017.54
+2022,8,Billboard,4071.51
+2022,9,Facebook Ads,7936.33
+2022,9,Google Ads,8803.15
+2022,9,Email Marketing,6004.71
+2022,9,Influencer,2940.22
+2022,9,TV,7989.23
+2022,9,Billboard,8783.57
+2022,10,Facebook Ads,4311.86
+2022,10,Google Ads,2848.63
+2022,10,Email Marketing,2655.63
+2022,10,Influencer,8179.66
+2022,10,TV,9831.04
+2022,10,Billboard,7815.58
+2022,11,Facebook Ads,6769.71
+2022,11,Google Ads,3915.85
+2022,11,Email Marketing,708.72
+2022,11,Influencer,2207.53
+2022,11,TV,8839.33
+2022,11,Billboard,4202.98
+2022,12,Facebook Ads,3000.54
+2022,12,Google Ads,8630.91
+2022,12,Email Marketing,8713.01
+2022,12,Influencer,4293.8
+2022,12,TV,7801.8
+2022,12,Billboard,5213.4
+2023,1,Facebook Ads,5294.73
+2023,1,Google Ads,549.51
+2023,1,Email Marketing,2211.39
+2023,1,Influencer,6063.25
+2023,1,TV,5097.35
+2023,1,Billboard,1162.83
+2023,2,Facebook Ads,7218.35
+2023,2,Google Ads,5475.47
+2023,2,Email Marketing,1986.62
+2023,2,Influencer,1778.94
+2023,2,TV,8967.99
+2023,2,Billboard,9703.14
+2023,3,Facebook Ads,2488.53
+2023,3,Google Ads,7143.54
+2023,3,Email Marketing,2454.16
+2023,3,Influencer,5346.25
+2023,3,TV,4576.47
+2023,3,Billboard,5694.37
+2023,4,Facebook Ads,653.87
+2023,4,Google Ads,6719.71
+2023,4,Email Marketing,8856.74
+2023,4,Influencer,3217.14
+2023,4,TV,9795.07
+2023,4,Billboard,8227.42
+2023,5,Facebook Ads,874.12
+2023,5,Google Ads,5536.57
+2023,5,Email Marketing,1880.1
+2023,5,Influencer,2897.68
+2023,5,TV,9747.3
+2023,5,Billboard,6052.13
+2023,6,Facebook Ads,6650.1
+2023,6,Google Ads,2187.97
+2023,6,Email Marketing,5226.73
+2023,6,Influencer,9646.78
+2023,6,TV,1205.61
+2023,6,Billboard,7666.63
+2023,7,Facebook Ads,1752.88
+2023,7,Google Ads,7399.08
+2023,7,Email Marketing,3466.2
+2023,7,Influencer,9162.38
+2023,7,TV,5450.37
+2023,7,Billboard,3837.72
+2023,8,Facebook Ads,4008.64
+2023,8,Google Ads,9681.04
+2023,8,Email Marketing,4239.24
+2023,8,Influencer,1709.0
+2023,8,TV,6088.62
+2023,8,Billboard,8078.8
+2023,9,Facebook Ads,6034.11
+2023,9,Google Ads,1532.43
+2023,9,Email Marketing,540.91
+2023,9,Influencer,640.49
+2023,9,TV,8038.42
+2023,9,Billboard,6678.4
+2023,10,Facebook Ads,1887.21
+2023,10,Google Ads,9773.23
+2023,10,Email Marketing,2244.74
+2023,10,Influencer,8876.01
+2023,10,TV,7265.77
+2023,10,Billboard,614.96
+2023,11,Facebook Ads,2563.72
+2023,11,Google Ads,5915.92
+2023,11,Email Marketing,7920.92
+2023,11,Influencer,7619.78
+2023,11,TV,9699.62
+2023,11,Billboard,3496.91
+2023,12,Facebook Ads,4602.04
+2023,12,Google Ads,6211.15
+2023,12,Email Marketing,7735.31
+2023,12,Influencer,8631.67
+2023,12,TV,8293.08
+2023,12,Billboard,9462.14

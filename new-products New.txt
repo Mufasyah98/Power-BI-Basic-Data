@@ -1,0 +1,4 @@
+Product ID	Product Name	Category ID	Price	Cost Per Unit
+R1009	Tablet UX	2	250	202
+R1015	Desk Plus Vero	3	144.40	34
+R1019	Chair Lite	3	220	89.80
